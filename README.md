@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sergey Novikov. I am Junior Frontend Developer.
+My name is Sergey Novikov. I am Frontend Developer.
 
 Since the end of 2018, I have been actively studying front-end technologies, developing websites in HTML & CSS, programming a little in JS.
 
