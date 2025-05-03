@@ -2,7 +2,7 @@
 [](https://github.com/ZomboBombo/ZomboBombo#hello-and-welcome)
 
 My name is Sergey Novikov. I'm a Frontend-dev and i like it `:3` <br/>
-More info about me in my [Intro](https://zombobombo.github.io/intro-site/)
+More info about me in my [Intro](https://zombobombo.github.io/intro/)
 
 ---
 
@@ -23,9 +23,9 @@ More info about me in my [Intro](https://zombobombo.github.io/intro-site/)
       <td>js, typescript, dart</td>
     </tr>
     <tr>
-			<th scope="row">tools</th>	
-			<td>gulp, webpack</td>
-	    </tr>
+	<th scope="row">tools</th>	
+	<td>gulp, webpack</td>
+    </tr>
     <tr>
       <th scope="row">mobile dev</th>	
       <td>flutter</td>
