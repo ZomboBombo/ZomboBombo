@@ -2,7 +2,9 @@
 [](https://github.com/ZomboBombo/ZomboBombo#hello-and-welcome)
 
 My name is Sergey Novikov. I'm a Frontend-dev and i like it `:3` <br/>
-More info about me in my [«Intro»](https://snovikov-intro.ru/)
+If you want to know more about me, check out my [«Intro»](https://snovikov-intro.ru/).
+
+Or you can [go straight](https://github.com/ZomboBombo/intro) to the sources and see what's going on in the «Intro» under the hood.
 
 ---
 
