@@ -1,10 +1,10 @@
 ### Hello and Welcome
 [](https://github.com/ZomboBombo/ZomboBombo#hello-and-welcome)
 
-My name is Sergey Novikov. I'm a Frontend-dev and i like it `:3` <br/>
-If you want to know more about me, check out my [«Intro»](https://snovikov-intro.ru/).
+My name is Sergey Novikov. I'm a frontend-dev and I like it `:3` <br/>
 
-Or you can [go straight](https://github.com/ZomboBombo/intro) to the sources and see what's going on in the «Intro» under the hood.
+If you want to know more about me, check out my [«Intro»](https://snovikov-intro.ru/). <br/>
+Or you can [go straight to the «Intro» sources](https://github.com/ZomboBombo/intro) and see what's going on under the hood.
 
 ---
 
@@ -34,3 +34,20 @@ Or you can [go straight](https://github.com/ZomboBombo/intro) to the sources and
         </tr>
     </tbody>
 </table>
+
+---
+
+### Stack (but beautiful pictures):
+![HTML](assets/_readme-logo-html.svg)
+![Pug](assets/_readme-logo-pug.svg)
+![Nunjucks](assets/_readme-logo-nj.svg)
+![CSS](assets/_readme-logo-css.svg)
+![Sass](assets/_readme-logo-sass.svg)
+![JS](assets/_readme-logo-js.svg)
+![TypeScript](assets/_readme-logo-ts.svg)
+![Dart](assets/_readme-logo-dart.svg)
+![Gulp](assets/_readme-logo-gulp.svg)
+![Webpack](assets/_readme-logo-webpack.svg)
+![Vite](assets/_readme-logo-vite.svg)
+![Vue](assets/_readme-logo-vue.svg)
+![Flutter](assets/_readme-logo-flutter.svg)
