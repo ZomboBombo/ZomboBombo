@@ -18,7 +18,7 @@ Or you can [go straight to the «Intro» sources](https://github.com/ZomboBombo/
         </tr>
         <tr>
             <th scope="row">styles</th>	
-            <td>css, sass, scss</td>
+            <td>css, sass</td>
         </tr>
         <tr>
             <th scope="row">prog langs</th>	
